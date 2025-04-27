@@ -1,0 +1,22 @@
+{
+  "name": "hex-api",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@coinbase/coinbase-sdk": "^0.23.0",
+    "cors": "^2.8.5",
+    "ethers": "^6.13.5",
+    "express": "^4.20.0"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.9"
+  }
+}

@@ -1,0 +1,48 @@
+# Node modules
+node_modules/
+
+# Logs
+logs
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+
+# Diretórios de build
+dist/
+build/
+out/
+
+# Ambiente
+.env
+.env.*.local
+
+# Cache
+.cache/
+.next/
+.expo/
+.expo-shared/
+
+# Sistemas operacionais
+.DS_Store
+Thumbs.db
+
+# Editor config
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+
+# Test coverage
+coverage/
+
+# Outros
+*.local
+*.bak
+*.tmp
+
+# React Native
+android/app/build/
+ios/Pods/
+ios/DerivedData/
